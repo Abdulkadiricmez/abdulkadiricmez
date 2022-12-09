@@ -40,8 +40,6 @@
 - <a href="https://fuatsevinc.github.io/HTML-KahootPage/" target="_blank" >Kahoot-Page</a>                                                     
 - <a href="https://fuatsevinc.github.io/HTML-CSS-GoogleHomepage/" target="_blank" >Google-Landing-Page</a>                     
 - <a href="https://fuatsevinc.github.io/HTML-CSS-Survey-Form/" target="_blank" >Survey-Form</a>                                                 
-- <a href="https://fuatsevinc.github.io/HTML_CSS-NetflixForm/" target="_blank" >Netflix-Form</a> 
-- <a href="https://fuatsevinc.github.io/fuatsevinc_CV/" target="_blank" >Fuat Sevinc CV</a> 
 ## :fire: My Stats :
 <h1 align="center">Summary</h1>
 <p>I am a web developer with a vast array knowledge in many different front end and back end languages, responsive frameworks,databases and best code practices.My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble and continuously making strides to learn all that i can about development. I  believe that my understanding of problem solving and complex algorithms are also skills that have and will continue to contribute to my overall success as a developer.</p>
