@@ -47,7 +47,7 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fuatsevinc)  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fuatsevinc&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulkadiricmez&show_icons=true)  
 
 
 
